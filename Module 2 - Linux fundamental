@@ -1,0 +1,11 @@
+Part 1 — Linux Fundamentals
+
+Learned the basics of the Linux command line, including navigating the filesystem, listing and searching files, using commands with flags, and accessing command documentation through --help and man pages.
+
+Key commands: ls, cd, pwd, find, grep, cat, man
+
+Part 2 — Linux Fundamentals
+
+Learned how to manage files and directories, understand Linux permissions and ownership, switch between users, and explore important system directories.
+
+Key commands: touch, mkdir, cp, mv, rm, file, chmod, su
