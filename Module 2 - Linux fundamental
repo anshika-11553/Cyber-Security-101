@@ -9,3 +9,18 @@ Part 2 — Linux Fundamentals
 Learned how to manage files and directories, understand Linux permissions and ownership, switch between users, and explore important system directories.
 
 Key commands: touch, mkdir, cp, mv, rm, file, chmod, su
+
+# Linux Fundamentals — Part 3
+
+Part 3 focused on working with files through the Linux terminal, using text editors and transferring files between systems.
+
+## 1. Terminal Text Editors
+
+Learned how to create and edit files directly from the terminal using text editors.
+
+### Nano
+
+Nano is a simple and beginner-friendly terminal text editor.
+
+```bash
+nano filename
