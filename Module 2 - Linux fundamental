@@ -24,3 +24,52 @@ Nano is a simple and beginner-friendly terminal text editor.
 
 ```bash
 nano filename
+
+part 3
+
+Introduction to Linux
+Deploying & accessing a Linux machine
+AttackBox vs Target machine
+SSH connection
+Terminal Text Editors
+Editing files from terminal
+General / Useful Utilities
+Common Linux commands and utilities
+Processes 101
+Program vs Process
+PID
+ps, ps aux, top
+Parent & child processes
+Process signals: SIGTERM, SIGKILL, SIGSTOP
+kill command
+System Services
+systemd
+PID 1
+systemctl
+start, stop, status, enable, disable
+Foreground & Background Processes
+&
+Ctrl + Z
+bg, fg, jobs
+Linux Namespaces
+Process/resource isolation
+Connection with containers
+Automation with Cron
+Cron & crontab
+Crontab syntax
+crontab -e, crontab -l
+*, */5, */12
+@reboot
+Package Management
+Managing/installing/updating Linux packages
+Linux Logs
+/var/log/
+Log files & log rotation
+Apache logs
+access.log & error.log
+Finding IP addresses and requested files from logs
+Cybersecurity Relevance
+Process enumeration
+Service investigation
+Detecting persistence through cron
+Log analysis and investigating suspicious activity
